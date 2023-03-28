@@ -2,7 +2,7 @@ import React from 'react';
 import './Loading.css';
 import { ClipLoader } from 'react-spinners'
 
-function Loader() {
+function Loading() {
     return (
       <>
         <div>
@@ -12,4 +12,4 @@ function Loader() {
     );
   }
 
-export default Loader;
+export default Loading;
